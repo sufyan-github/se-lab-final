@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/VehicleTest.dir/test/VehicleTest.cpp.o -o VehicleTest  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
