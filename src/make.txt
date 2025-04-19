@@ -1,0 +1,8 @@
+create a c++ program using the factory method pattern to manufacture differen types of verhicle car bus truck
+
+Requreents
+
+1. define a base class vehicle with  a drive() method
+2 impement concerete classes car bike and truck 
+3. a vehiclefactory classs should create and return the appropate vehicle 
+4. write gtest units to check drive( )behaviour for each vehicle
