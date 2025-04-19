@@ -8,6 +8,16 @@ public:
 };
 
 
+class Car : public Vehicle
+{
+public:
+    void drive() override
+    {
+        cout << "Car is driving" << endl;
+    }
+};
+
+
 int main()
 {
     testVehicleFactory();
